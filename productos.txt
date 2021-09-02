@@ -1,0 +1,38 @@
+[
+  {
+    "title": "escuadra",
+    "price": 22.5,
+    "thumbnail": "url",
+    "id": 1
+  },
+  {
+    "title": "regla",
+    "price": 50.5,
+    "thumbnail": "url2",
+    "id": 2
+  },
+  {
+    "title": "cuaderno",
+    "price": 98.15,
+    "thumbnail": "url3",
+    "id": 3
+  },
+  {
+    "title": "hojas",
+    "price": 158.23,
+    "thumbnail": "url4",
+    "id": 4
+  },
+  {
+    "title": "borrador",
+    "price": 23.52,
+    "thumbnail": "url5",
+    "id": 5
+  },
+  {
+    "title": "libro",
+    "price": 358.96,
+    "thumbnail": "url6",
+    "id": 6
+  }
+]

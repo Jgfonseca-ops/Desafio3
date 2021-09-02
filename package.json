@@ -1,0 +1,15 @@
+{
+  "name": "ej1---servidor-express",
+  "version": "1.0.0",
+  "description": "mi primer serviro express",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Felipe Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
